@@ -1,0 +1,7 @@
+test dosyasının  test kelimeleri
+Hüseyin Naci LAÇİN
+Mahmut Nedim LAÇİN
+Serdar LAÇİN
+Ziya LAÇİN
+
+new_feature branchinde ilk ekleme
